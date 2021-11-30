@@ -15,7 +15,7 @@ setTimeout(questions, countdown);
 // Array per i numeri random da inserire
 const randomArray = [];
 
-// Ciclo for per gli alert di numeri che vengono eseguiti prima della funzione setTimeout
+// Ciclo for per i 5 alert richiesti, che vengono eseguiti prima della funzione setTimeout
 for (let i=0; i<5; i++) {
 
     // Variabile random da 1 a 20
